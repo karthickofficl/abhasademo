@@ -25,9 +25,9 @@
 
     <meta name="search engines" content="ALL" />
 
-    <meta name="Author" content=" https://www.abhasa.in/ " />
+    <meta name="Author" content=" https://abhasa.in/ " />
 
-    <meta name="copyright" content=" https://www.abhasa.in/" />
+    <meta name="copyright" content=" https://abhasa.in/" />
 
     <meta name="email" content="info@abhasa.in" />
 
@@ -37,11 +37,11 @@
 
     <meta property="og:type" content="website" />
 
-    <meta property="og:url" content="www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/" />
+    <meta property="og:url" content="https://www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/" />
 
-    <meta property="og:site_name" content="  https://www.abhasa.in/  " />
+    <meta property="og:site_name" content="https://www.abhasa.in/  " />
 
-    <meta property="og:image" content=" https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
+    <meta property="og:image" content="https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
 
     <meta property="og:title" content="Advice on How to Deal with an Alcoholic Spouse" />
 
@@ -56,11 +56,11 @@
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
 
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/style.css">
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/color.css">
+    <link type="text/css" rel="stylesheet" href="https://abhasa.in/css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="https://abhasa.in/css/style.css">
+    <link type="text/css" rel="stylesheet" href="https://abhasa.in/css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="https://www.abhasa.in/images/abhasa-logo-files/favicon.png">
+    <link rel="icon" type="image/x-icon" href="https://abhasa.in/images/abhasa-logo-files/favicon.png">
 
     <style type="text/css">
         .tg {
@@ -135,7 +135,7 @@
         <!-- header-->
         <header class="main-header">
             <!-- logo  -->
-            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="https://www.abhasa.in/images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
+            <a href="https://abhasa.in/" class="ajax logo-holder"><img src="https://abhasa.in/images/abhasa-logo-files/abhasa-logo-transparent.png" alt=""></a>
             <!-- logo end -->
             <!-- nav-button-wrap-->
             <div class="nav-button but-hol">
@@ -160,9 +160,9 @@
             <span class="lh_dec color-bg"></span>
             <div class="left-header_social">
                 <ul>
-                    <li><a rel="nofollow" href="https://www.facebook.com/abhasarehabilitation" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a rel="nofollow" href="https://www.instagram.com/abhasa_rehab" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                    <li><a rel="nofollow" href="https://www.youtube.com/channel/UCV5AZXe1vP41kq7pOsEut2A" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
+                    <li><a href="https://www.facebook.com/abhasarehabilitation" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="https://www.instagram.com/abhasa_rehab" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCV5AZXe1vP41kq7pOsEut2A" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
                     <li><a href="https://api.whatsapp.com/send?phone=+917373644444" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                     <li><a href="tel:07373644444" target="_blank"><i class="fa fa-phone"></i></a></li>
                     <li><a href="tel:08266066666" target="_blank"><i class="fa fa-phone-square"></i></a></li>
@@ -199,7 +199,7 @@
                     <div class="pr-bg"></div>
                     <!--fixed-column-wrap-content how-to-control-anger-->
                     <div class="fixed-column-wrap-content">
-                        <div class="bg" data-bg="https://www.abhasa.in/images/blog2/the-effects-of-mixing-alcohol-and-dayquil.jpg"></div>
+                        <div class="bg" data-bg="https://abhasa.in/images/blog2/the-effects-of-mixing-alcohol-and-dayquil.jpg"></div>
                         <div class="overlay"></div>
                         <div class="progress-bar-wrap bot-element">
                             <div class="progress-bar"></div>
@@ -377,10 +377,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://abhasa.in/js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://abhasa.in/js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://abhasa.in/js/scripts.js"></script>
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -443,13 +443,13 @@
 
             "@type": "WebSite",
 
-            "url": " www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/ ",
+            "url": "https://www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/ ",
 
             "potentialAction": {
 
                 "@type": "SearchAction",
 
-                "target": "www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/find?q={search_term_string}",
+                "target": "https://www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/find?q={search_term_string}",
 
                 "query-input": "required name=search_term_string"
 
@@ -469,7 +469,7 @@
 
             "alternateName": "Women mental health, women and mental health, women mental health issues, women's mental health, issues female mental health support, female mental health problems, common mental illnesses in women",
 
-            "url": "www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/"
+            "url": "https://www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/"
 
         }
     </script>
@@ -483,7 +483,7 @@
 
             "name": "Why we need to prioritize women’s mental health",
 
-            "url": "www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/",
+            "url": "https://www.abhasa.in/articles/how-to-deal-with-an-alcoholic-spouse/",
 
             "email": "info@abhasa.in",
 
@@ -491,7 +491,7 @@
 
             "description": "This blog emphasizes the need for a collective effort in empowering women's mental health. Learn how a holistic approach, female mental health support, and breaking stigma can foster resilience and well-being in women.",
 
-            "logo": "  https://www.abhasa.in/images/og-image.jpg  ",
+            "logo": "  https://abhasa.in/images/og-image.jpg  ",
 
             "contactPoint": {
 
