@@ -8,7 +8,7 @@
     <meta name="robots" content="index, follow" />
     <title>How to Stop Drinking Alcohol? - Abhasa</title>
 
-    <meta name=description content=" Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety." />
+    <meta name=description content="Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety." />
     <meta name="google-site-verification" content="KiMaVmyM8ptojjNVd7vINhtDSBAlmqGUrTMraM7DjZQ" />
 
     <meta name=keywords content="how to stop drinking alcohol, stop drinking alcohol, stop alcohol drinking, stop alcohol consumption" />
@@ -37,21 +37,21 @@
 
     <meta property="og:type" content="website" />
 
-    <meta property="og:url" content="  https://www.abhasa.in/the-5-secrets-to-pulling-off-simple-minimal-design/ " />
+    <meta property="og:url" content="https://www.abhasa.in/the-5-secrets-to-pulling-off-simple-minimal-design/" />
 
-    <meta property="og:site_name" content="  https://www.abhasa.in/  " />
+    <meta property="og:site_name" content="https://www.abhasa.in/  " />
 
-    <meta property="og:image" content=" https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
+    <meta property="og:image" content="https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
 
-    <meta property="og:title" content=" How to Stop Drinking Alcohol? - Abhasa " />
+    <meta property="og:title" content="How to Stop Drinking Alcohol? - Abhasa " />
 
-    <meta property="og:description" content="  Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety. " />
+    <meta property="og:description" content="Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety. " />
 
     <meta name="twitter:card" content="summary" />
 
-    <meta name="twitter:title" content=" How to Stop Drinking Alcohol? - Abhasa  " />
+    <meta name="twitter:title" content="How to Stop Drinking Alcohol? - Abhasa  " />
 
-    <meta name="twitter:description" content="  Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety.  " />
+    <meta name="twitter:description" content="Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety.  " />
 
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
 
@@ -237,7 +237,7 @@
                                 </div>
                                 <div class="fl-wrap text-block">
                                     <div class="clearfix"></div>
-                                    <p class="pt-serif">First of all, it is very courageous of you to  <a href="../alcohol-rehabilitation-centre-in-tamilnadu"><b>start thinking of quitting alcohol.</b></a> Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety.</p>
+                                    <p class="pt-serif">First of all, it is very courageous of you to <a href="https://www.abhasa.in/alcohol-rehabilitation-centre-in-tamilnadu/"><b>start thinking of quitting alcohol.</b></a> Embark on the initial phase of healing by acknowledging the issue. Discover the crucial steps to overcome alcohol dependency and start a journey to sobriety.</p>
                                     <p class="pt-serif">How will this resolve remain constant? Seek help from friends and family. After taking family and friends on board, now comes the role of a counsellor, psychologist, or psychotherapist who will steer the ship of your new journey.</p>
                                     <ol class="ol">
                                         <li class="pt-serif">Step 1: Positive Visualisation Ask yourself: What is your vision of a new life when you detox (quit alcohol)? Positive visualisation is an integral part of getting out of any problem. Have realistic goals that you want to achieve and that you want to receive as a reward for quitting alcohol.</li>
@@ -255,7 +255,7 @@
                                         <li class="pt-serif">Step 7: Gratitude
                                             Be thankful for the Blessings you have.</li>
                                     </ol>
-                                 </div>
+                                </div>
                             </div>
                             <div class="section-number"> <span>0</span>1. </div>
                         </section>
@@ -322,7 +322,7 @@
 
             "@type": "WebSite",
 
-            "url": " https://www.abhasa.in/the-5-secrets-to-pulling-off-simple-minimal-design/  ",
+            "url": "https://www.abhasa.in/the-5-secrets-to-pulling-off-simple-minimal-design/",
 
             "potentialAction": {
 

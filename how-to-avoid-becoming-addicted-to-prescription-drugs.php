@@ -6,11 +6,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow" />
-
-
-
-
-
     <title>How to Avoid Becoming Addicted to Prescription Drugs?</title>
 
     <meta name=description content="Prescription drug addiction and abuse is real and it happens when people misuse drugs for long enough. Read more to know the signs, symptoms, and prescription drug addiction treatment options." />
@@ -30,9 +25,9 @@
 
     <meta name="search engines" content="ALL" />
 
-    <meta name="Author" content=" https://www.abhasa.in/ " />
+    <meta name="Author" content="https://www.abhasa.in/ " />
 
-    <meta name="copyright" content=" https://www.abhasa.in/" />
+    <meta name="copyright" content="https://www.abhasa.in/" />
 
     <meta name="email" content="info@abhasa.in" />
 
@@ -42,11 +37,11 @@
 
     <meta property="og:type" content="website" />
 
-    <meta property="og:url" content="   https://www.abhasa.in/how-to-avoid-becoming-addicted-to-prescription-drugs/ " />
+    <meta property="og:url" content="https://www.abhasa.in/how-to-avoid-becoming-addicted-to-prescription-drugs/ " />
 
-    <meta property="og:site_name" content="  https://www.abhasa.in/  " />
+    <meta property="og:site_name" content="https://www.abhasa.in/  " />
 
-    <meta property="og:image" content=" https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
+    <meta property="og:image" content="https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
 
     <meta property="og:title" content=" How to Avoid Becoming Addicted to Prescription Drugs? " />
 
@@ -341,7 +336,7 @@
                                     </ul>
 
                                     <div class="pr-subtitle">Looking for prescription drug addiction treatment?</div>
-                                    <p class="pt-serif">If you are looking to help a friend or a loved one who is addicted to prescription drugs, we at <a href="https://www.abhasa.in/">Abhasa,</a> the leading rehabilitation centre in India, are the right option. With regular consultation from a medical professional, we also offer one-on-one counselling sessions to support and motivate people to refrain from prescription drug addiction. We guide them to use the prescribed drugs wisely. Depending on the severity and intensity of prescription drug addiction, we recommend in-patient or residential treatment and therapy options. Visit our site,<a href="http://www.abhasa.in/amphetamine-drug-abuse-signs-withdrawal-treatment/">www.abhasa.in</a> to know more details about the treatment for a speedy recovery.</p>
+                                    <p class="pt-serif">If you are looking to help a friend or a loved one who is addicted to prescription drugs, we at <a href="https://www.abhasa.in/">Abhasa,</a> the leading rehabilitation centre in India, are the right option. With regular consultation from a medical professional, we also offer one-on-one counselling sessions to support and motivate people to refrain from prescription drug addiction. We guide them to use the prescribed drugs wisely. Depending on the severity and intensity of prescription drug addiction, we recommend in-patient or residential treatment and therapy options. Visit our site,<a href="https://www.abhasa.in/amphetamine-drug-abuse-signs-withdrawal-treatment/">www.abhasa.in</a> to know more details about the treatment for a speedy recovery.</p>
 
 
                                 </div>
