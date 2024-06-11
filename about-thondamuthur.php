@@ -417,7 +417,7 @@
                                                                 </div>
                                                                 <!-- team-box   end-->
                                                                 <!-- team-box   -->
-                                                                <div class="swiper-slide">
+                                                                <!-- <div class="swiper-slide">
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
@@ -431,7 +431,7 @@
                                                                                 As a Residential Medical Officer, Dr. Shyamala Anand leads rehabilitation programs and provides personalized care to her clients. Her expertise and commitment to holistic health make her a valuable asset in promoting well-being and delivering effective treatment.</p>
                                                                         </div>
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                                 <!-- team-box   end-->
                                                                 <!-- team-box   -->
                                                                 <!--<div class="swiper-slide">-->
