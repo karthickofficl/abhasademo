@@ -124,8 +124,8 @@
                 <div class="left-header_social">
                     <ul >
                         <li><a rel="nofollow" href="https://www.facebook.com/abhasarehabilitation" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a rel="nofollow" href="https://www.instagram.com/abhasa_rehab" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                        <li><a rel="nofollow" href="https://www.youtube.com/channel/UCV5AZXe1vP41kq7pOsEut2A" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
+                        <li><a rel="nofollow" href="https://www.instagram.com/abhasa.mentalhealth/reels/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a rel="nofollow" href="https://www.youtube.com/@abhasa.rehab.wellness" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
                         <li><a rel="nofollow" href="https://api.whatsapp.com/send/?phone=917373644444" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                         <li><a href="tel:07373644444" target="_blank"><i class="fa fa-phone"></i></a></li>
                         <li><a href="tel:08266066666" target="_blank"><i class="fa fa-phone-square"></i></a></li>
@@ -510,9 +510,9 @@
 
     " https://www.facebook.com/abhasarehabilitation",  
 
-    "  https://www.instagram.com/abhasa_rehab/  ",  
+    "  https://www.instagram.com/abhasa.mentalhealth/reels/  ",  
 
-    "https://www.youtube.com/channel/UCV5AZXe1vP41kq7pOsEut2A "
+    "https://www.youtube.com/@abhasa.rehab.wellness "
 
   ]
 

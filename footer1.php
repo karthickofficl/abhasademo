@@ -223,9 +223,9 @@
 
             " https://www.facebook.com/abhasarehabilitation",
 
-            "  https://www.instagram.com/abhasa_rehab/  ",
+            "  https://www.instagram.com/abhasa.mentalhealth/reels/  ",
 
-            "https://www.youtube.com/channel/UCV5AZXe1vP41kq7pOsEut2A "
+            "https://www.youtube.com/@abhasa.rehab.wellness "
 
         ]
 
