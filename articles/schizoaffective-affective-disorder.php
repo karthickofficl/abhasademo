@@ -344,10 +344,10 @@ meaning of schizoaffective disorder" />
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/scripts.js"></script>
     <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;

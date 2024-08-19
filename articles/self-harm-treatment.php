@@ -67,7 +67,7 @@
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/style.css">
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="https://www.abhasa.in/images/abhasa-logo-files/favicon.svg">
 
     <style type="text/css">
         .tg {
@@ -455,10 +455,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/scripts.js"></script>
     <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;
