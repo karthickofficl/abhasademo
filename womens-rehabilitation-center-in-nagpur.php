@@ -31,7 +31,7 @@
     <meta name="twitter:title" content="Best Luxury Women's Rehabilitation Centre In Nagpur" />
     <meta name="twitter:description" content="Abhasa is the Nagpur’s best rehabilitation centre for women. We provide wellness to the ones who have taken a step towards de-addiction. " />
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="../css/plugins.css">
     <link type="text/css" rel="stylesheet" href="../css/style.css">

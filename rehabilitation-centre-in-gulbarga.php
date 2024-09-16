@@ -19,7 +19,7 @@
     <meta name="Author" content=" https://www.abhasa.in/ " />
     <meta name="copyright" content=" https://www.abhasa.in/" />
     <meta name="email" content="info@abhasa.in" />
-    <link rel="canonical" href="https://www.abhasa.in/rehabilitation-centre-in-mysore/" />
+    <link rel="canonical" href="https://www.abhasa.in/rehabilitation-centre-in-gulbarga/" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:type" content="website" />
     <meta property="og:url" content="  https://www.abhasa.in/rehabilitation-centre-in-mysore/   " />

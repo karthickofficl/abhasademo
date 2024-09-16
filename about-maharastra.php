@@ -228,7 +228,7 @@
                                             </div>
                                             <p class="pt-serif">Our compassionate team of therapists and counselors is here to help you overcome life's challenges. Located in Thondamuthur near Coimbatore city, our customized treatment options yield noticeable results. With our serene and luxurious atmosphere, Abhasa offers comprehensive care for mental health, de-addiction, and detoxification. Trust our dedicated staff and proven track record for your holistic well-being. Contact us today for a brighter future.</p>
                                         </div>
-                                        <iframe width="100%" height="530" src="https://www.youtube.com/embed/oiG21MRo3Vw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" class="display-iframe-responsive-labtob" src="https://www.youtube.com/embed/oiG21MRo3Vw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <section class="scroll_sec" id="sec2">
                                             <div class="container">
                                                 <div class="section-title">

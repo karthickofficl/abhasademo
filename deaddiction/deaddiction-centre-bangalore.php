@@ -31,7 +31,7 @@
     <meta name="twitter:title" content=" Best Alcohol and Drug De addiction Centre Near Bangalore | Abhasa" />
     <meta name="twitter:description" content=" In Bangalore, Abhasa is the greatest alcohol and drug rehab center. Our wellness program helps de-addicts. Any help? Phone +91 73736 44444 today." />
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/plugins.css">
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/style.css">
@@ -92,7 +92,7 @@
 
         .team-info-num::before {
             counter-increment: section;
-            content: ""counter(section) ". ";
+            content: "" counter(section) ". ";
         }
     </style>
     <script>

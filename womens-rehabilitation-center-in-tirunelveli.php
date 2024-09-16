@@ -31,7 +31,7 @@
     <meta name="twitter:title" content="Best Luxury Women's Rehabilitation Centre In Tirunelveli" />
     <meta name="twitter:description" content="  Abhasa is the Tirunelveli’s best rehabilitation centre for women. We provide wellness to the ones who have taken a step towards de-addiction." />
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="../css/plugins.css">
     <link type="text/css" rel="stylesheet" href="../css/style.css">
@@ -40,7 +40,7 @@
     <!--=============== favicons ===============-->
     <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
 
- <style>
+    <style>
         body .img-fluid-40 {
             width: 100%;
             height: 214px;

@@ -1,71 +1,120 @@
 <!DOCTYPE HTML>
 <html lang="en">
-    <head>
-        <!--=============== basic  ===============-->
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <meta name="robots" content="index, follow"/>
-        <title>A Complete Guide on Sexual Addiction and How to Treat It?</title>
-        <meta name=description content=" Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it. "/>
-        <meta name="google-site-verification" content="KiMaVmyM8ptojjNVd7vINhtDSBAlmqGUrTMraM7DjZQ" />
-        <meta name=keywords content="sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction " />
-        <meta name="language" content="en"/>
-        <meta name="revisit-after" content="7 days"/>
-        <meta name="Expires" content="never" />
-        <meta name="Distribution" content="Global"/>
-        <meta name="Rating" content="general"/>
-        <meta name="search engines" content="ALL"/>
-        <meta name="Author" content=" https://www.abhasa.in/ "/>
-        <meta name="copyright" content=" https://www.abhasa.in/"/>
-        <meta name="email" content="info@abhasa.in"/>
-        <link rel="canonical" href=" https://www.abhasa.in/sexual-addiction/" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta property="og:type" content="website"/>
-        <meta property="og:url" content="  https://www.abhasa.in/sexual-addiction/ "/>
-        <meta property="og:site_name" content="  https://www.abhasa.in/  "/>
-        <meta property="og:image" content=" https://www.abhasa.in/images/og-image.jpg " title="Abhasa"/>
-        <meta property="og:title" content=" A Complete Guide on Sexual Addiction and How to Treat It? "/>
-        <meta property="og:description" content="  Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it. "/>
-        <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:title" content=" A Complete Guide on Sexual Addiction and How to Treat It? "/>
-        <meta name="twitter:description" content="  Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it.  " />
-        <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
-        <!--=============== css  ===============-->
-        <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="../css/style.css">
-        <link type="text/css" rel="stylesheet" href="../css/color.css">
-        <!--=============== favicons ===============-->
-        <link rel="icon" type="image/x-icon" href="../images/favicon.png">
-        <style type="text/css">
-            .tg  {border-collapse:collapse;border-spacing:0;}
-            .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-            overflow:hidden;padding:10px 5px;word-break:normal;}
-            .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-            font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-            .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-            .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-            .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-        </style>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-WZ754K4');
-        </script>
-    </head>
-    <body>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZ754K4"
+
+<head>
+    <!--=============== basic  ===============-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="robots" content="index, follow" />
+    <title>A Complete Guide on Sexual Addiction and How to Treat It?</title>
+    <meta name=description content=" Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it. " />
+    <meta name="google-site-verification" content="KiMaVmyM8ptojjNVd7vINhtDSBAlmqGUrTMraM7DjZQ" />
+    <meta name=keywords content="sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction " />
+    <meta name="language" content="en" />
+    <meta name="revisit-after" content="7 days" />
+    <meta name="Expires" content="never" />
+    <meta name="Distribution" content="Global" />
+    <meta name="Rating" content="general" />
+    <meta name="search engines" content="ALL" />
+    <meta name="Author" content=" https://www.abhasa.in/ " />
+    <meta name="copyright" content=" https://www.abhasa.in/" />
+    <meta name="email" content="info@abhasa.in" />
+    <link rel="canonical" href=" https://www.abhasa.in/sexual-addiction/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="  https://www.abhasa.in/sexual-addiction/ " />
+    <meta property="og:site_name" content="  https://www.abhasa.in/  " />
+    <meta property="og:image" content=" https://www.abhasa.in/images/og-image.jpg " title="Abhasa" />
+    <meta property="og:title" content=" A Complete Guide on Sexual Addiction and How to Treat It? " />
+    <meta property="og:description" content="  Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it. " />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content=" A Complete Guide on Sexual Addiction and How to Treat It? " />
+    <meta name="twitter:description" content="  Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. It is better to treat it rather being ignorant about it.  " />
+    <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <!--=============== css  ===============-->
+    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="../css/style.css">
+    <link type="text/css" rel="stylesheet" href="../css/color.css">
+    <!--=============== favicons ===============-->
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png">
+    <style type="text/css">
+        .tg {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        .tg td {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg th {
+            border-color: black;
+            border-style: solid;
+            border-width: 1px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            overflow: hidden;
+            padding: 10px 5px;
+            word-break: normal;
+        }
+
+        .tg .tg-lboi {
+            border-color: inherit;
+            text-align: left;
+            vertical-align: middle
+        }
+
+        .tg .tg-9wq8 {
+            border-color: inherit;
+            text-align: center;
+            vertical-align: middle
+        }
+
+        .tg .tg-0pky {
+            border-color: inherit;
+            text-align: left;
+            vertical-align: top
+        }
+    </style>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WZ754K4');
+    </script>
+</head>
+
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZ754K4"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- loader   -->
-        <div class="loader">
-            <div class="loading-text-container "><span class="loader_count">0</span></div>
-            <div class="loader-anim"></div>
-            <div class="loader-anim2"></div>
-        </div>
-        <!-- loader  end-->
-        <!-- main start  -->
-        <div id="main">
+    <!-- loader   -->
+    <div class="loader">
+        <div class="loading-text-container "><span class="loader_count">0</span></div>
+        <div class="loader-anim"></div>
+        <div class="loader-anim2"></div>
+    </div>
+    <!-- loader  end-->
+    <!-- main start  -->
+    <div id="main">
         <!-- header-->
         <header class="main-header">
             <!-- logo  -->
@@ -73,7 +122,7 @@
             <!-- logo end -->
             <!-- nav-button-wrap-->
             <div class="nav-button but-hol">
-                <span  class="ncs"></span>
+                <span class="ncs"></span>
                 <span class="nos"></span>
                 <span class="nbs"></span>
                 <div class="menu-button-text">Menu</div>
@@ -93,7 +142,7 @@
         <aside class="left-header">
             <span class="lh_dec color-bg"></span>
             <div class="left-header_social">
-                <ul >
+                <ul>
                     <li><a rel="nofollow" href="https://www.facebook.com/abhasarehabilitation" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a rel="nofollow" href="https://www.instagram.com/abhasa.mentalhealth/reels/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                     <li><a rel="nofollow" href="https://www.youtube.com/@abhasa.rehab.wellness" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
@@ -112,11 +161,11 @@
         <!-- wrapper  -->
         <div id="wrapper">
             <?php include('header.php') ?>
-            <!-- content-->    
+            <!-- content-->
             <div class="content" data-pagetitle="Drug Rehabilitation">
                 <div class="page-scroll-nav psn_single">
                 </div>
-                <!-- hero-section-dec-->                  
+                <!-- hero-section-dec-->
                 <div class="hero-section-dec color-bg">
                     <div class="progress-indicator">
                         <svg xmlns="http://www.w3.org/2000/svg"
@@ -129,13 +178,13 @@
                         </svg>
                     </div>
                 </div>
-                <!-- hero-section-dec end--> 
+                <!-- hero-section-dec end-->
                 <!--fixed-column-wrap-->
                 <div class="fixed-column-wrap">
                     <div class="pr-bg"></div>
                     <!--fixed-column-wrap-content-->
                     <div class="fixed-column-wrap-content">
-                        <div class="bg"  data-bg="../images/bg/sex_addiction.svg"></div>
+                        <div class="bg" data-bg="../images/bg/sex_addiction.svg"></div>
                         <div class="overlay"></div>
                         <div class="progress-bar-wrap bot-element">
                             <div class="progress-bar"></div>
@@ -150,12 +199,12 @@
                         <div class="fixed-column-linedec"></div>
                         <div class="scroll-notifer"> </div>
                     </div>
-                    <!--fixed-column-wrap-content end-->                                     
+                    <!--fixed-column-wrap-content end-->
                 </div>
                 <!--fixed-column-wrap end-->
-                <!--column-wrap--> 
+                <!--column-wrap-->
                 <div class="column-wrap">
-                    <!--column-wrap-container -->   
+                    <!--column-wrap-container -->
                     <div class="column-wrap-container fl-wrap">
                         <div class="col-wc_dec"></div>
                         <section class="scroll_sec" id="sec1">
@@ -210,161 +259,159 @@
                                     <p class="pt-serif"><b>Psychotherapy: The sexual addiction inpatient programmes</b>also include offering therapies to the patients to help them understand their relationship with porn. They will try to explore your relationship and why you are pushed towards fulfilling your sexual needs, and they will develop strategies to deal with the psychological frustration.</p>
                                     <p class="pt-serif"><b>They will also help to bring about a change in your lifestyle. </b>The sexual addiction treatment also includes bringing about a change in your lifestyle. Sometimes, your lifestyle is the reason behind watching extreme porn. Lots of boredom and a lack of motivation can give you a chance to tread the path of pornography. They will help you indulge in activities that can help you recover your mindset. They will push you towards developing a hobby, doing some outdoor activities, doing something you love, creating passion, and fueling your energy from a negative to a positive direction. The area of focus is to change your thought pattern to stop viewing or reduce viewing pornographic content.</p>
                                     <div class="pr-subtitle">Wrap Up</div>
-                                    <p class="pt-serif">Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. People exposed to such addictions are at high risk and can cause problems for those associated with them. It is better to treat it rather than be ignorant about it. You can take the help of a trained therapist to improve your lifestyle pattern, so don't delay and don't suffer in silence if you can't resist the porn-watching or indulge in sexual behaviour. No matter how hard you try, visit  <a href="https://www.abhasa.in/"> Abhasa </a>Rehabilitation Centre. The institute is there to help you with an array of therapies. They are armed with expert counsellors who understand the mindset of the addicts and take care of them in a luxurious environment. They lend a hand to everyone who needs support and wants to recover and see life with a different lens. The rehabilitation centre offers treatment for schizophrenia, <a href="https://www.abhasa.in/bipolar-disorder-treatment-in-mumbai/"> bipolar disorder</a>, <a href="https://www.abhasa.in/depression-rehabilitation-center-in-mumbai/">depression</a>,<a href="https://www.abhasa.in/ocd-treatment-center-in-mumbai/"> OCD</a>, <a href="https://www.abhasa.in/phobia-treatment-center-mumbai/"> phobia</a>, <a href="https://www.abhasa.in/dissociative-disorder-treatment-in-mumbai/"> Dissociative disorder,</a> etc. Contact them to know how they can bring transformation in the patient's life. </p>
+                                    <p class="pt-serif">Porn addiction or sexual addiction can happen to anybody, and there is no gender discrimination here. People exposed to such addictions are at high risk and can cause problems for those associated with them. It is better to treat it rather than be ignorant about it. You can take the help of a trained therapist to improve your lifestyle pattern, so don't delay and don't suffer in silence if you can't resist the porn-watching or indulge in sexual behaviour. No matter how hard you try, visit <a href="https://www.abhasa.in/"> Abhasa </a>Rehabilitation Centre. The institute is there to help you with an array of therapies. They are armed with expert counsellors who understand the mindset of the addicts and take care of them in a luxurious environment. They lend a hand to everyone who needs support and wants to recover and see life with a different lens. The rehabilitation centre offers treatment for schizophrenia, <a href="https://www.abhasa.in/bipolar-disorder-treatment-in-mumbai/"> bipolar disorder</a>, <a href="https://www.abhasa.in/depression-rehabilitation-center-in-mumbai/">depression</a>,<a href="https://www.abhasa.in/ocd-treatment-center-in-mumbai/"> OCD</a>, <a href="https://www.abhasa.in/phobia-treatment-center-mumbai/"> phobia</a>, <a href="https://www.abhasa.in/dissociative-disorder-treatment-in-mumbai/"> Dissociative disorder,</a> etc. Contact them to know how they can bring transformation in the patient's life. </p>
                                 </div>
                             </div>
                             <div class="section-number"> <span>0</span>1. </div>
                         </section>
-                        <!--section end-->                                      
+                        <!--section end-->
                         <?php include('footer.php') ?>
-                        </div>
                     </div>
-                    <!--column-wrap-container end -->          
                 </div>
-                <!--column-wrap end-->    
-                <div class="to-top-btn to-top"><i class="fal fa-long-arrow-up"></i></div>
+                <!--column-wrap-container end -->
             </div>
-            <!-- content end--> 
+            <!--column-wrap end-->
+            <div class="to-top-btn to-top"><i class="fal fa-long-arrow-up"></i></div>
         </div>
-        <!-- Main end -->
-        <!--=============== scripts  ===============-->
-        <script  type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
-        <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-        <script  type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-        <script  type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
-        <script type="text/javascript" rel="javascript">
-            $(document).ready(function() {
-                var showChar = 400;
-                var ellipsestext = "...";
-                var moretext = "show more";
-                var lesstext = "show less";
-                $('.more').each(function() {
-                    var content = $(this).html();
-            
-                            if(content.length > showChar) {
-            
-                                var c = content.substr(0, showChar);
-                                var h = content.substr(showChar, content.length - showChar);
-            
-                                var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + '        </span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';        
-            
-                                $(this).html(html);
-                            }
-            
-                        });
-            
-                        $(".morelink").click(function(){
-                            if($(this).hasClass("less")) {
-                                $(this).removeClass("less");
-                                $(this).html(moretext);
-                            } else {
-                                $(this).addClass("less");
-                                $(this).html(lesstext);
-                            }
-                            $(this).parent().prev().toggle();
-                            $(this).prev().toggle();
-                            return false;
-                        });
-                    });
-        </script>
-        <!-- Schema scripts -->
-        <script type="application/ld+json">
-            {
-            
-                "@context": "http://schema.org",
-            
-                "@type": "WebSite",
-            
-                "url": " https://www.abhasa.in/sexual-addiction/  ",
-            
-                "potentialAction": {
-            
-                    "@type": "SearchAction",
-            
-                    "target": " https://www.abhasa.in/symptoms-of-alcohol-dependence/find?q={search_term_string}",
-            
-                    "query-input": "required name=search_term_string"
-            
-               }
-            
+        <!-- content end-->
+    </div>
+    <!-- Main end -->
+    <!--=============== scripts  ===============-->
+    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript">
+        $(document).ready(function() {
+            var showChar = 400;
+            var ellipsestext = "...";
+            var moretext = "show more";
+            var lesstext = "show less";
+            $('.more').each(function() {
+                var content = $(this).html();
+
+                if (content.length > showChar) {
+
+                    var c = content.substr(0, showChar);
+                    var h = content.substr(showChar, content.length - showChar);
+
+                    var html = c + '<span class="moreellipses">' + ellipsestext + '&nbsp;</span><span class="morecontent"><span>' + h + '        </span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+
+                    $(this).html(html);
+                }
+
+            });
+
+            $(".morelink").click(function() {
+                if ($(this).hasClass("less")) {
+                    $(this).removeClass("less");
+                    $(this).html(moretext);
+                } else {
+                    $(this).addClass("less");
+                    $(this).html(lesstext);
+                }
+                $(this).parent().prev().toggle();
+                $(this).prev().toggle();
+                return false;
+            });
+        });
+    </script>
+    <!-- Schema scripts -->
+    <script type="application/ld+json">
+        {
+
+            "@context": "http://schema.org",
+
+            "@type": "WebSite",
+
+            "url": " https://www.abhasa.in/sexual-addiction/  ",
+
+            "potentialAction": {
+
+                "@type": "SearchAction",
+
+                "target": " https://www.abhasa.in/symptoms-of-alcohol-dependence/find?q={search_term_string}",
+
+                "query-input": "required name=search_term_string"
+
             }
-            
-        </script>
-        <script type="application/ld+json">
-            {
-            
-                "@context": "http://schema.org",
-            
-                "@type": "WebSite",
-            
-                "name": " A Complete Guide on Sexual Addiction and How to Treat It? ",
-            
-                "alternateName": "  sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction ",
-            
-                "url": " https://www.abhasa.in/sexual-addiction/ "
-            
-            }
-            
-        </script>
-        <script type="application/ld+json">  
-            {  
-            
-              "@context": "https://schema.org",  
-            
-              "@type": "Organization",  
-            
-              "name": " A Complete Guide on Sexual Addiction and How to Treat It?  ",  
-            
-              "url":  "https://www.abhasa.in/sexual-addiction/",  
-            
-              "email": "info@abhasa.in",  
-            
-              "foundingDate": "2010",  
-            
-              "description": "  sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction ",  
-            
-              "logo": "  https://www.abhasa.in/images/og-image.jpg  ",  
-            
-              "contactPoint": {  
-            
-                "@type": "ContactPoint",  
-            
-                "telephone": "+91 7373644444 , +91 8622066666",  
-            
-                "contactType": "sales",  
-            
-                "contactOption": "Customer Service",  
-            
-                "areaServed": "India",  
-            
-                "availableLanguage": "en"            
-            
-              },  
-            
+
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+
+            "@context": "http://schema.org",
+
+            "@type": "WebSite",
+
+            "name": " A Complete Guide on Sexual Addiction and How to Treat It? ",
+
+            "alternateName": "  sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction ",
+
+            "url": " https://www.abhasa.in/sexual-addiction/ "
+
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+
+            "@context": "https://schema.org",
+
+            "@type": "Organization",
+
+            "name": " A Complete Guide on Sexual Addiction and How to Treat It?  ",
+
+            "url": "https://www.abhasa.in/sexual-addiction/",
+
+            "email": "info@abhasa.in",
+
+            "foundingDate": "2010",
+
+            "description": "  sexual addiction, sexual addiction treatment, compulsive sexual behavior disorder, obsessive sexual thoughts disorder, porn addiction ",
+
+            "logo": "  https://www.abhasa.in/images/og-image.jpg  ",
+
+            "contactPoint": {
+
+                "@type": "ContactPoint",
+
+                "telephone": "+91 7373644444 , +91 8622066666",
+
+                "contactType": "sales",
+
+                "contactOption": "Customer Service",
+
+                "areaServed": "India",
+
+                "availableLanguage": "en"
+
+            },
+
             "aggregateRating":
-            
-            {  
-            
-            "@type":"AggregateRating",  
-            
-            "ratingValue":"4.5",  
-            
-            "reviewCount":"103"
-            
-            },  
-            
-              "sameAs": [  
-            
-                " https://www.facebook.com/abhasarehabilitation",  
-            
-                "  https://www.instagram.com/abhasa.mentalhealth/reels/  ",  
-            
+
+            {
+
+                "@type": "AggregateRating",
+
+                "ratingValue": "4.5",
+
+                "reviewCount": "103"
+
+            },
+
+            "sameAs": [
+
+                " https://www.facebook.com/abhasarehabilitation",
+
+                "  https://www.instagram.com/abhasa.mentalhealth/reels/  ",
+
                 "https://www.youtube.com/@abhasa.rehab.wellness "
-            
-              ]
-            
-            }
-            
-        </script>
-    </body>
+
+            ]
+
+        }
+    </script>
+</body>
+
 </html>

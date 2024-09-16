@@ -621,7 +621,7 @@
 
             "name": "  Abhasa - Best Rehabilitation Centre in Maharastra & Tamilnadu, India  ",
 
-            "url": "https://www.abhasa.in/about/about-thondamuthur/",
+            "url": "https://www.abhasa.in/corporate/",
 
             "email": "info@abhasa.in",
 

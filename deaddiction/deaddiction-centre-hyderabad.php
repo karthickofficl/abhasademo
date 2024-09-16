@@ -31,7 +31,7 @@
     <meta name="twitter:title" content=" Best Alcohol and Drug De addiction Centre Near Hyderabad | Abhasa" />
     <meta name="twitter:description" content=" In Hyderabad, Abhasa is the greatest alcohol and drug rehab. Our wellness program helps de-addicts. Any help? Phone No: +91 73736 44444 today." />
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/plugins.css">
     <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/style.css">
@@ -92,7 +92,7 @@
 
         .team-info-num::before {
             counter-increment: section;
-            content: ""counter(section) ". ";
+            content: "" counter(section) ". ";
         }
     </style>
     <script>
@@ -382,7 +382,7 @@
                                                                         <div class="team-info">
                                                                             <h3>Dr. Naveen Kumar V</h3>
                                                                             <h4>Consultant Psychiatrist</h4>
-                                                                            <p class="comment more">Dr. Naveen Kumar V is a Psychiatrist , completed MBBS in 2006 and DPM in 2010 from Sri Ramachandra Medical College and Research Institute,Chennai. He is a member of the Indian Psychiatric Society. He has 15 years of experience in various settings that include treating patients with substance abuse and worked in inpatient facility that treated addiction and behaviour disorder. His experience include, providing mental health care for indigenous tribal community in Kerala  where he helped in setting up De-addiction centre in the Government Tribal Speciality Hospital . Other Special areas of interest include PTSD, OCD, Depression and Anxiety. His work is towards prevention, diagnosis and treatment of mental, addictive and emotional disorders addressing biological, psychological and social components of illness.</p>
+                                                                            <p class="comment more">Dr. Naveen Kumar V is a Psychiatrist , completed MBBS in 2006 and DPM in 2010 from Sri Ramachandra Medical College and Research Institute,Chennai. He is a member of the Indian Psychiatric Society. He has 15 years of experience in various settings that include treating patients with substance abuse and worked in inpatient facility that treated addiction and behaviour disorder. His experience include, providing mental health care for indigenous tribal community in Kerala where he helped in setting up De-addiction centre in the Government Tribal Speciality Hospital . Other Special areas of interest include PTSD, OCD, Depression and Anxiety. His work is towards prevention, diagnosis and treatment of mental, addictive and emotional disorders addressing biological, psychological and social components of illness.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -398,8 +398,8 @@
                                                                         <div class="team-info">
                                                                             <h3>Dr Vivek Sharma</h3>
                                                                             <h4>Consultant Psychiatrist (Neurofeedback Practitioner)</h4>
-                                                                            <p class="comment more">Dr Sharma completed his MBBS and MD (Psychiatry) from King George’s Medical University in Hyderabad. After realizing the limited impact of conventional medical treatments in severe mental illness, he developed a specialized interest in neuromodulation and trained in Neurofeedback in Australia, and went on to become Board-Certified in Neurofeedback by BCIA. He has trained in use of QEEG brain mapping- a novel investigative technique, which provides precision neurofeedback training, and is in the final stages of accreditation in this discipline. Due to his combined knowledge of Medicine, Psychiatry and QEEG he has a nuanced understanding of therapeutic and adverse effects of medications on the brain and uses this knowledge to provide recommendations for neurotherapy interventions. 
-                                                                                
+                                                                            <p class="comment more">Dr Sharma completed his MBBS and MD (Psychiatry) from King George’s Medical University in Hyderabad. After realizing the limited impact of conventional medical treatments in severe mental illness, he developed a specialized interest in neuromodulation and trained in Neurofeedback in Australia, and went on to become Board-Certified in Neurofeedback by BCIA. He has trained in use of QEEG brain mapping- a novel investigative technique, which provides precision neurofeedback training, and is in the final stages of accreditation in this discipline. Due to his combined knowledge of Medicine, Psychiatry and QEEG he has a nuanced understanding of therapeutic and adverse effects of medications on the brain and uses this knowledge to provide recommendations for neurotherapy interventions.
+
                                                                                 He has considerable experience in managing some of the most challenging neuropsychiatric conditions such as Obsessive-compulsive disorder, PTSD and Autistic spectrum disorder which are often underdiagnosed and respond poorly to conventional treatments.
 
                                                                                 He has been associated with Abhasa through carrying out Neurofeedback sessions, these sessions are curated to match individual needs. Neurofeedback sessions play a major role in treating patients by giving them closure and a new perspective and this aids in recovery.</p>
