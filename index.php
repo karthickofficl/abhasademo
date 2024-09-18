@@ -39,24 +39,33 @@
     <link rel="icon" type="image/x-icon" href="images/abhasa-logo-files/favicon.svg">
 
     <meta name="google-site-verification" content="rmJpEuJmuy_cqLCMHGyTFxaYtXj50zgsQxn9ztMA1o4" />
-    
+
     <!-- Meta Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '402258139214044');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=402258139214044&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Meta Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '402258139214044');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=402258139214044&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
 
     <style type="text/css">
         .tg {
@@ -575,9 +584,9 @@ src="https://www.facebook.com/tr?id=402258139214044&ev=PageView&noscript=1"
                                 <!--    </div>-->
                                 <!--</div>-->
                                 <h2 class="pr-subtitle pt-serif-h3">ABHASA- IN SANSKRIT MEANS “CONSTANT EXERCISE”</h2>
-                                <p class="pt-serif">Abhasa in Sanskrit means “Constant Exercise”. It is a practice that brings serenity to one’s mind and which we believe is a practice for those who take the route of recovery from any form of addiction and mental health disorders. We at Abhasa Rehabilitation Centre provide a wellness retreat to the ones who have taken a step towards de-addiction and mental health related issues by understanding their mindset from the roots and take care of them with integrity in a luxurious environment by a panel of experts. We lend our hands to each and every one who is wanting to step out of any form of addiction and be their support system until they completely recover and see the better things in life. Our Abhasa Campus is establishing a new standard for addiction rehabilitation and care, in keeping with our status as one of the leading rehab institutions in India. We are a dedicated group of enthusiastic carers who think that everyone deserves the opportunity to live a meaningful and fruitful life.</p>
+                                <p class="pt-serif">Abhasa in Sanskrit means “Constant Exercise”. It is a practice that brings serenity to one’s mind and which we believe is a practice for those who take the route of recovery from any form of addiction and mental health disorders. At Abhasa Rehabilitation Centre, recognized as the Best Rehab Center in India, we offer a wellness retreat for individuals who have embarked on the path of de-addiction and mental health healing.  By deeply understanding each person's mindset, we provide personalized care in a luxurious environment, guided by a panel of experts with unwavering integrity. We lend our hands to each and every one who is wanting to step out of any form of addiction and be their support system until they completely recover and see the better things in life. Our Abhasa Campus is setting a new benchmark for addiction rehabilitation and care, upholding our reputation as the Best Rehab Center in India. We are a dedicated group of enthusiastic carers who think that everyone deserves the opportunity to live a meaningful and fruitful life.</p>
                                 <p class="pr-subtitle pt-serif-h3">OUR PHILOSOPHY</p>
-                                <p class="pt-serif">Our center is inspired by the ancient Eastern philosophy of the five elements Earth, Wind, Water, Fire, and Space - which represent the fundamental forces that make up the universe and everything within it, including ourselves. Abhasa recognizes the importance of incorporating this philosophy into their treatment approach as it promotes a holistic approach to healing. Each element is associated with different aspects of life, and by incorporating activities that relate to these elements, clients are able to tap into the healing powers of nature. </p>
+                                <p class="pt-serif">Our center is inspired by the ancient Eastern philosophy of the five elements Earth, Wind, Water, Fire, and Space - which represent the fundamental forces that make up the universe and everything within it, including ourselves. As the Best Rehabilitation Center in India, Abhasa recognizes the value of integrating this timeless philosophy into our treatment approach, offering a holistic path to healing. Each element is associated with different aspects of life, and by incorporating activities that relate to these elements, clients are able to tap into the healing powers of nature.</p>
                                 <p class="pr-subtitle pt-serif-h3"> MISSION</p>
                                 <p class="pt-serif">To de-stigmatize and eliminate blemishes surrounding mental health and addiction, aiming to achieve our purpose through building a holistic community and customised treatment approach that aids in healing and recovery.</p>
                                 <p class="pr-subtitle pt-serif-h3"> VISION</p>
@@ -832,7 +841,7 @@ src="https://www.facebook.com/tr?id=402258139214044&ev=PageView&noscript=1"
                                     </div>
                                 </div>
                                 <h2 class="pr-subtitle pt-serif-h3">FACILITIES AND AMENITIES</h2>
-                                <p class="pt-serif">Our Rehabilitation centre situated in Coimbatore and Maharashtra is equipped to help you identify specific issues around mental health and wellness. This helps us provide the right treatment regime that shows noticeable results. We have created a serene and luxurious atmosphere in a ‘one of its kind’ wellness resort. This helps you in complete the treatment of detoxification, de-addiction and mental health disorder processes.</p>
+                                <p class="pt-serif">Our Rehabilitation centre situated in Coimbatore and Maharashtra is equipped to help you identify specific issues around mental health and wellness. As the Best Rehabilitation Center in India, we focus on providing the most effective treatment regime tailored to deliver noticeable results. We have created a serene and luxurious atmosphere in a ‘one of its kind’ wellness resort. This helps you in complete the treatment of detoxification, de-addiction and mental health disorder processes.</p>
 
                                 <div class="gallery-items big-pad  three-column  fl-wrap  ">
 
