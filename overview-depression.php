@@ -63,11 +63,11 @@
 
 
         <!--=============== css  ===============-->
-        <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="../css/style.css">
-        <link type="text/css" rel="stylesheet" href="../css/color.css">
+        <link type="text/css" rel="stylesheet" href="./css/plugins.css">
+        <link type="text/css" rel="stylesheet" href="./css/style.css">
+        <link type="text/css" rel="stylesheet" href="./css/color.css">
         <!--=============== favicons ===============-->
-        <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+        <link rel="icon" type="image/x-icon" href="./images/abhasa-logo-files/favicon.svg">
 
         <style type="text/css">
             
@@ -103,7 +103,7 @@
             <!-- header-->
             <header class="main-header">
                 <!-- logo  -->
-                <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="../images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
+                <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="./images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
                 <!-- logo end -->
                 <!-- nav-button-wrap-->
                 <div class="nav-button but-hol">
@@ -170,7 +170,7 @@
                         <div class="pr-bg"></div>
                         <!--fixed-column-wrap-content-->
                         <div class="fixed-column-wrap-content">
-                            <div class="bg"  data-bg="../images/blog/Depression-Treatment.svg"></div>
+                            <div class="bg"  data-bg="./images/blog/Depression-Treatment.svg"></div>
                             <div class="overlay"></div>
                             <div class="progress-bar-wrap bot-element">
                                 <div class="progress-bar"></div>
@@ -203,7 +203,7 @@
                                         <p class="pt-serif">Guys have you ever experienced Depression?…or have been in contact with a person undergoing depression? Well…if your answer is yes, you would agree to the fact that depression is evident from the very appearance of a person….shabbily dressed up, poor personal hygiene, puffy eye bags…When a person is in depression…to him, his world appears dark…..deep dark…no hope…no help.. and a life that seems to have no worth…having low mood, low energy and decreased activity level, his sleep, appetite drastically gets affected…feeling of guilt..pessimistic view about the future….suicidal thoughts/ideation/attempt, etc.</p>
 
 
-                                       <p class="pt-serif">But the good news is that <a href="../depression-rehabilitation-center"><b>Depression can be effectively treated.</a></b> What you need to do first is consult a Psychiatrist who would prescribe you anti-depressants. Counseling or application of psychotherapy would be especially beneficial for you.</p>
+                                       <p class="pt-serif">But the good news is that <a href="./depression-rehabilitation-center"><b>Depression can be effectively treated.</a></b> What you need to do first is consult a Psychiatrist who would prescribe you anti-depressants. Counseling or application of psychotherapy would be especially beneficial for you.</p>
                                         <p class="pt-serif">These are the supportive external factors…but the most important thing from your side is making consistent efforts by bringing changes in your lifestyle….following a proper routine, having adequate sleep, incorporating healthy habits like regular exercise, Yoga, meditation, relaxation exercises. Then, of course, spending time with your near and dear ones, walking in nature, laughter exercises, spending time with your pets would be of added advantage.</p>
                                         <p class="pt-serif">To get Recoverd from lost life join with <a href="abhasa.in">Abhasa Now!</a></p>
 
@@ -227,10 +227,10 @@
 </div>
 <!-- Main end -->
  <!--=============== scripts  ===============-->
-        <script  type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+        <script  type="text/javascript" rel="javascript" src="./js/jquery.min.js"></script>
         <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-        <script  type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-        <script  type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+        <script  type="text/javascript" rel="javascript" src="./js/plugins.js"></script>
+        <script  type="text/javascript" rel="javascript" src="./js/scripts.js"></script>
         <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;

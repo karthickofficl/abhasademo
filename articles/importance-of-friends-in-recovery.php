@@ -56,11 +56,11 @@
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
 
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/style.css">
-    <link type="text/css" rel="stylesheet" href="https://www.abhasa.in/css/color.css">
+    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="../css/style.css">
+    <link type="text/css" rel="stylesheet" href="../css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="https://www.abhasa.in/images/abhasa-logo-files/favicon.png">
+    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.png">
 
     <style type="text/css">
         .tg {
@@ -511,10 +511,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="https://www.abhasa.in/js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -659,9 +659,9 @@
 
                 " https://www.facebook.com/abhasarehabilitation",
 
-                "  https://www.instagram.com/abhasa.mentalhealth/reels/  ",
+                "  https://www.instagram.com/abhasa.mentalhealth/reels/",
 
-                "https://www.youtube.com/@abhasa.rehab.wellness "
+                "https://www.youtube.com/@abhasa.rehab.wellness"
 
             ]
 

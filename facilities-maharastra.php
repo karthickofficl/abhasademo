@@ -58,11 +58,11 @@
 
 
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="../css/style.css">
-    <link type="text/css" rel="stylesheet" href="../css/color.css">
+    <link type="text/css" rel="stylesheet" href="./css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="./css/style.css">
+    <link type="text/css" rel="stylesheet" href="./css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="./images/abhasa-logo-files/favicon.svg">
 
     <style type="text/css">
         .tg {
@@ -144,7 +144,7 @@
         <!-- header-->
         <header class="main-header">
             <!-- logo  -->
-            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="../images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
+            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="./images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
             <!-- logo end -->
             <!-- nav-button-wrap-->
             <div class="nav-button but-hol">
@@ -195,7 +195,7 @@
                     <div class="pr-bg"></div>
                     <!--fixed-column-wrap-content-->
                     <div class="fixed-column-wrap-content">
-                        <div class="bg" data-bg="../images/bg/facilities.svg"></div>
+                        <div class="bg" data-bg="./images/bg/facilities.svg"></div>
                         <div class="overlay"></div>
                         <div class="progress-bar-wrap bot-element">
                             <div class="progress-bar"></div>
@@ -232,8 +232,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/bg/dining.svg" class="respimg" alt="">
-                                                <a href="../images/bg/dining.svg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/bg/dining.svg" class="respimg" alt="">
+                                                <a href="./images/bg/dining.svg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -244,8 +244,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/bg/security.svg" class="respimg" alt="">
-                                                <a href="../images/bg/security.svg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/bg/security.svg" class="respimg" alt="">
+                                                <a href="./images/bg/security.svg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -253,8 +253,8 @@
                                     <div class="col-md-12  mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/bg/nursing.svg" class="respimg" alt="">
-                                                <a href="../images/bg/nursing.svg" class="grid-media-zoom image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/bg/nursing.svg" class="respimg" alt="">
+                                                <a href="./images/bg/nursing.svg" class="grid-media-zoom image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -268,37 +268,22 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/41.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/41.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/41.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/41.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-12  mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/42.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/42.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/42.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/42.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/35.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/35.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-12  mb-60">
-                                        <div class="col-md-6">
-                                            <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/46.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/46.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/49.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/49.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/35.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/35.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -306,14 +291,29 @@
                                     <div class="col-md-12  mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/68.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/68.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/46.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/46.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/69.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/69.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/49.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/49.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12  mb-60">
+                                        <div class="col-md-6">
+                                            <div class="dec-img fl-wrap">
+                                                <img src="./images/gallery/68.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/68.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="dec-img fl-wrap">
+                                                <img src="./images/gallery/69.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/69.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -321,8 +321,8 @@
                                     <div class="col-md-12  mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/44.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/44.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/44.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/44.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -336,8 +336,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/52.jpg" class="respimg" alt="">
-                                                <a href="../images/gallery/52.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/52.jpg" class="respimg" alt="">
+                                                <a href="./images/gallery/52.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -355,10 +355,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/scripts.js"></script>
     <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;

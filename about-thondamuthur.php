@@ -33,11 +33,11 @@
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="../css/style.css">
-    <link type="text/css" rel="stylesheet" href="../css/color.css">
+    <link type="text/css" rel="stylesheet" href="./css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="./css/style.css">
+    <link type="text/css" rel="stylesheet" href="./css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="./images/abhasa-logo-files/favicon.svg">
     <style type="text/css">
         .tg {
             border-collapse: collapse;
@@ -193,7 +193,7 @@
         <!-- header-->
         <header class="main-header">
             <!-- logo  -->
-            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="../images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
+            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="./images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
             <!-- logo end -->
             <!-- nav-button-wrap-->
             <div class="nav-button but-hol">
@@ -283,7 +283,7 @@
                                         <!--ms_item-->
                                         <div class="swiper-slide">
                                             <div class="ms-item_fs fl-wrap">
-                                                <div class="bg par-elem containn" data-bg="../images/gallery/about_thondamuthur07.webp"></div>
+                                                <div class="bg par-elem containn" data-bg="./images/gallery/about_thondamuthur07.webp"></div>
                                             </div>
                                         </div>
                                         <!--ms_item end-->
@@ -1408,10 +1408,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/scripts.js"></script>
     <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;

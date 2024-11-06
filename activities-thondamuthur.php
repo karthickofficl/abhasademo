@@ -58,11 +58,11 @@
 
 
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="../css/style.css">
-    <link type="text/css" rel="stylesheet" href="../css/color.css">
+    <link type="text/css" rel="stylesheet" href="./css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="./css/style.css">
+    <link type="text/css" rel="stylesheet" href="./css/color.css">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="./images/abhasa-logo-files/favicon.svg">
 
     <style type="text/css">
         .box4 {
@@ -259,7 +259,7 @@
         <!-- header-->
         <header class="main-header">
             <!-- logo  -->
-            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="../images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
+            <a href="https://www.abhasa.in/" class="ajax logo-holder"><img src="./images/abhasa-logo-files/abhasa-logo-transparent.png" alt="abhasa-logo"></a>
             <!-- logo end -->
             <!-- nav-button-wrap-->
             <div class="nav-button but-hol">
@@ -310,7 +310,7 @@
                     <div class="pr-bg"></div>
                     <!--fixed-column-wrap-content-->
                     <div class="fixed-column-wrap-content">
-                        <div class="bg" data-bg="../images/activities/activities-thondamuthurbanners2.jpg"></div>
+                        <div class="bg" data-bg="./images/activities/activities-thondamuthurbanners2.jpg"></div>
                         <div class="overlay"></div>
                         <div class="progress-bar-wrap bot-element">
                             <div class="progress-bar"></div>
@@ -343,8 +343,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3875.jpeg" class="respimg-activitiesverticle" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3875.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3875.jpeg" class="respimg-activitiesverticle" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3875.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -359,20 +359,12 @@
                                     <div class="col-md-12 mb-60">
 
                                         <div class="col-md-6">
-                                            <p class="pt-serif">Shaking the blues with nature’s tunes! Interacting with animals is known to reduce the levels of cortisol (stress hormones) in the blood. Bird-watching, on the other hand, hones patience which is essential during rehabilitation, additionally it builds reflexes which is a promising sign that assures cognitive ability. Gardening is also a natural stress reliever; the organic vegetables and fruits cultivated in Abhasa’s garden are used for our everyday cooking.Yoga incorporates physical postures and conscious
-                                                breathing. Balance, flexibility, range of motion, and
-                                                strength can be enhanced by yoga, it can also
-                                                improve mental health, although these benefits are
-                                                more difficult to quantify. Yoga, according to
-                                                numerous studies, can release beneficial brain
-                                                chemicals, relieve depression, reduce stress and
-                                                anxiety, boost social life and develop other social
-                                                behaviors, and improve sleep.</p>
+                                            <p class="pt-serif">Shaking the blues with nature’s tunes! Interacting with animals is known to reduce the levels of cortisol (stress hormones) in the blood. Bird-watching, on the other hand, hones patience which is essential during rehabilitation, additionally it builds reflexes which is a promising sign that assures cognitive ability. Gardening is also a natural stress reliever; the organic vegetables and fruits cultivated in Abhasa’s garden are used for our everyday cooking.Yoga incorporates physical postures and conscious breathing. Balance, flexibility, range of motion, and strength can be enhanced by yoga, it can also improve mental health, although these benefits are more difficult to quantify. Yoga, according to numerous studies, can release beneficial brain chemicals, relieve depression, reduce stress and anxiety, boost social life and develop other social behaviors, and improve sleep.</p>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3850.jpeg" class="respimg-activitiesverticle" alt="respimg-activities">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3850.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3850.jpeg" class="respimg-activitiesverticle" alt="respimg-activities">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3850.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -380,18 +372,12 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3813-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3813-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3813-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3813-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-                                            <p class="pt-serif">We can't get rid of our thoughts, and sometimes
-                                                the more we try to quiet them, the louder they get.
-                                                Meditation, on the other hand, can help quiet the
-                                                mind's chatter. Studies have shown that even 10
-                                                minutes of meditation increases the brain's alpha
-                                                waves, which are linked to relaxation, and reduces
-                                                anxiety and depression.</p>
+                                            <p class="pt-serif">We can't get rid of our thoughts, and sometimes the more we try to quiet them, the louder they get. Meditation, on the other hand, can help quiet the mind's chatter. Studies have shown that even 10 minutes of meditation increases the brain's alpha waves, which are linked to relaxation, and reduces anxiety and depression.</p>
                                         </div>
 
                                     </div>
@@ -420,8 +406,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3649-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3649-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3649-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3649-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -429,35 +415,23 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3719-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3719-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3719-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3719-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-                                            <p class="pt-serif">Studies have found that patients with
-                                                alcoholism/substance use who participated in both
-                                                residential treatment and an AA /NA group had a
-                                                substantially greater rate of abstinence and a much
-                                                better likelihood of staying alcohol/substance free</p>
+                                            <p class="pt-serif">Studies have found that patients with alcoholism/substance use who participated in both residential treatment and an AA /NA group had a substantially greater rate of abstinence and a much better likelihood of staying alcohol/substance free</p>
                                         </div>
                                     </div>
                                     <li class="pr-subtitle"><b>GROUP SESSIONS</b></li>
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
-                                            <p class="pt-serif">Comprehensive knowledge of issues surrounding
-                                                addiction and mental health allows us to broaden
-                                                our perspective and realize that we are not alone.
-                                                Group Sessions allows us to begin the process of
-                                                building a recovery community and developing our
-                                                capacity for effective communication and problem-
-                                                solving.  It also enable discussion of how others
-                                                handle similar problems, allowing clients to learn
-                                                from one another.</p>
+                                            <p class="pt-serif">Comprehensive knowledge of issues surrounding addiction and mental health allows us to broaden our perspective and realize that we are not alone. Group Sessions allows us to begin the process of building a recovery community and developing our capacity for effective communication and problem-solving.  It also enable discussion of how others handle similar problems, allowing clients to learn from one another.</p>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3731-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3731-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3731-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3731-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -465,15 +439,12 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3694-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3694-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3694-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3694-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-                                            <p class="pt-serif">Provides a safe place to discuss difficulties,
-                                                facilitating the development of an individualized
-                                                treatment plan that boosts the likelihood of a
-                                                speedy recovery.</p>
+                                            <p class="pt-serif">Provides a safe place to discuss difficulties, facilitating the development of an individualized treatment plan that boosts the likelihood of a speedy recovery.</p>
                                         </div>
                                     </div>
                                     <li class="pr-subtitle"><b>FAMILY THERAPY</b> </li>
@@ -486,8 +457,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur11.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur11.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur11.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur11.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -495,8 +466,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/IMG_20230206_180508.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/IMG_20230206_180508.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/IMG_20230206_180508.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/IMG_20230206_180508.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -524,8 +495,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/about_thondamuthur09.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/gallery/about_thondamuthur09.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/about_thondamuthur09.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/gallery/about_thondamuthur09.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -535,8 +506,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur16.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur16.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur16.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur16.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -628,8 +599,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur15.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur15.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur15.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur15.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -637,8 +608,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3880-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3880-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3880-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3880-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -673,8 +644,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur13.jpg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur13.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur13.jpg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur13.jpg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -683,8 +654,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur09.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur09.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur09.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur09.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -718,8 +689,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur04.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur04.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur04.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur04.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -727,8 +698,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3824-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3824-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3824-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3824-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -757,8 +728,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/gallery/about_thondamuthur45.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/gallery/about_thondamuthur45.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/gallery/about_thondamuthur45.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/gallery/about_thondamuthur45.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -766,8 +737,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/activities-thondamuthur05.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/activities-thondamuthur05.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/activities-thondamuthur05.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/activities-thondamuthur05.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -790,8 +761,8 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/activities/about_thondamuthur11.webp" class="respimg-activities" alt="respimg">
-                                                <a href="../images/activities/about_thondamuthur11.webp" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/activities/about_thondamuthur11.webp" class="respimg-activities" alt="respimg">
+                                                <a href="./images/activities/about_thondamuthur11.webp" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -799,8 +770,8 @@
                                     <div class="col-md-12 mb-60">
                                         <div class="col-md-6">
                                             <div class="dec-img fl-wrap">
-                                                <img src="../images/newimg/jpeg-optimizer_DSC_3701-copy.jpeg" class="respimg-activities" alt="respimg">
-                                                <a href="../images/newimg/jpeg-optimizer_DSC_3701-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                <img src="./images/newimg/jpeg-optimizer_DSC_3701-copy.jpeg" class="respimg-activities" alt="respimg">
+                                                <a href="./images/newimg/jpeg-optimizer_DSC_3701-copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -832,10 +803,10 @@
     </div>
     <!-- Main end -->
     <!--=============== scripts  ===============-->
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/jquery.min.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/plugins.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/scripts.js"></script>
     <script type="text/javascript" rel="javascript">
         $(document).ready(function() {
             var showChar = 400;

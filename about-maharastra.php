@@ -359,7 +359,7 @@
                                                                 <!--</div>-->
                                                                 <!-- team-box   end-->
                                                                 <!-- team-box   -->
-                                                                <div class="swiper-slide">
+                                                                <!-- <div class="swiper-slide">
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
@@ -371,7 +371,7 @@
                                                                             <p class="comment more">With a Master's degree in Applied Psychology, Tejal specializes in addiction recovery, emotional disturbances, and psychiatric illnesses. She utilizes evidence-based therapies like CBT, DBT, mindfulness techniques, and yoga practices to support clients. Her client-centered interventions promote healing and personal growth.</p>
                                                                         </div>
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                                 <!-- team-box   end-->
                                                                 <!-- team-box   -->
                                                                 <div class="swiper-slide">

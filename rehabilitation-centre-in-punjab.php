@@ -31,18 +31,18 @@
     <meta name="twitter:title" content=" Best Luxury Rehabilitation Centre in Punjab | Abhasa " />
     <meta name="twitter:description" content="  Abhasa is the Punjab’s best rehabilitation centre. We provide wellness to the ones who have taken a step towards de-addiction." />
     <meta name="twitter:image" content="https://www.abhasa.in/images/og-image.jpg" title="Abhasa" />
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/headerscripts.php') ?>
     <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="../css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="../css/style.css">
-    <link type="text/css" as="style" rel="stylesheet" href="../css/color.css" defer>
-    <link rel="preload" as="image" href="../images/webp/about.webp">
+    <link type="text/css" rel="stylesheet" href="./css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="./css/style.css">
+    <link type="text/css" as="style" rel="stylesheet" href="./css/color.css" defer>
+    <link rel="preload" as="image" href="./images/webp/about.webp">
     <!--=============== favicons ===============-->
-    <link rel="icon" type="image/x-icon" href="../images/abhasa-logo-files/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="./images/abhasa-logo-files/favicon.svg">
 
 
     <style type="text/css">
-       body .tg {
+        body .tg {
             border-collapse: collapse;
             border-spacing: 0;
         }
@@ -185,7 +185,7 @@
                                         <!--ms_item-->
                                         <div class="swiper-slide">
                                             <div class="ms-item_fs fl-wrap">
-                                                <div class="bg par-elem" data-bg="../images/webp/about.webp"></div>
+                                                <div class="bg par-elem" data-bg="./images/webp/about.webp"></div>
                                             </div>
                                         </div>
                                         <!--ms_item end-->
@@ -209,7 +209,7 @@
                             <div class="sc_current"><span>01</span></div>
                             <div class="sc_total"></div>
                         </div>
-                         <!-- <div class="fcwc-pagination fcwc-wrap"></div> -->
+                        <!-- <div class="fcwc-pagination fcwc-wrap"></div> -->
                     </div>
                     <!--fixed-column-wrap-content end-->
                 </div>
@@ -293,9 +293,9 @@
                                                                 <!-- team-box   -->
                                                                 <div class="swiper-slide">
                                                                     <div class="team-box">
-                                                                          <div class="team-photo" style="background-color: #000;">
+                                                                        <div class="team-photo" style="background-color: #000;">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/gayathri-raw.jpg" alt="" class="respimg-01">
+                                                                            <img src="./images/team/gayathri-raw.jpg" alt="" class="respimg-01">
                                                                             <div class="team-info-num">01</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -311,7 +311,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/2.webp" alt="" class="respimg ">
+                                                                            <img src="./images/webp/2.webp" alt="" class="respimg ">
                                                                             <div class="team-info-num">02</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -327,7 +327,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/8.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/8.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">03</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -343,7 +343,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/naveen1.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/naveen1.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">04</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -359,7 +359,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/vivek.webp" loading="lazy" alt="" class="respimg lazyload lazyload">
+                                                                            <img src="./images/webp/vivek.webp" loading="lazy" alt="" class="respimg lazyload lazyload">
                                                                             <div class="team-info-num">05</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -379,7 +379,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/11.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/11.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">06</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -395,7 +395,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/12.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/12.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">07</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -411,7 +411,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/ramly.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/ramly.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">08</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -427,7 +427,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/sharan-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/sharan-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">09</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -443,7 +443,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/ajay-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/ajay-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">10</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -459,7 +459,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/hari-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/hari-grey.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">11</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -469,13 +469,13 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <!-- team-box   end-->
+                                                                <!-- team-box end-->
                                                                 <!-- team-box   -->
                                                                 <div class="swiper-slide">
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/karuppuchamy.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/karuppuchamy.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">12</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -492,7 +492,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/laxamanan.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/laxamanan.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">13</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -509,7 +509,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/jijo.webp" loading="lazy" alt="" class="respimg lazyload ">
+                                                                            <img src="./images/webp/jijo.webp" loading="lazy" alt="" class="respimg lazyload ">
                                                                             <div class="team-info-num">14</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -525,7 +525,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/team/meera.jpg" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/team/meera.jpg" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">15</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -541,7 +541,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/sutheesh.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/sutheesh.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">16</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -557,7 +557,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/renosh.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/renosh.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">17</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -573,7 +573,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/revathy.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/revathy.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">18</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -589,7 +589,7 @@
                                                                     <div class="team-box">
                                                                         <div class="team-photo">
                                                                             <div class="overlay"></div>
-                                                                            <img src="../images/webp/srithil.webp" loading="lazy" alt="" class="respimg lazyload">
+                                                                            <img src="./images/webp/srithil.webp" loading="lazy" alt="" class="respimg lazyload">
                                                                             <div class="team-info-num">19</div>
                                                                         </div>
                                                                         <div class="team-info">
@@ -611,8 +611,8 @@
                                                 <!--grid-carousel-wrap end -->
                                                 <div class="col-sm-12">
                                                     <div class="dec-img fl-wrap">
-                                                        <img src="../images/newimg/jpeg-optimizer_DSC_3857 copy.jpeg" class="respimg-team" alt="">
-                                                        <a href="../images/newimg/jpeg-optimizer_DSC_3857 copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
+                                                        <img src="./images/newimg/jpeg-optimizer_DSC_3857 copy.jpeg" class="respimg-team" alt="">
+                                                        <a href="./images/newimg/jpeg-optimizer_DSC_3857 copy.jpeg" class="grid-media-zoom   image-popup"><i class="far fa-search"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -659,9 +659,9 @@
     <!--=============== scripts  ===============-->
     <script type="text/javascript" rel="javascript" src="./js/newfile.js"></script>
     <link type="text/css" href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <script type="text/javascript" rel="javascript" src="../js/jquery.min.js"></script>
-    <script type="text/javascript" rel="javascript" src="../js/plugins.js" defer></script>
-    <script type="text/javascript" rel="javascript" src="../js/scripts.js" defer></script>
+    <script type="text/javascript" rel="javascript" src="./js/jquery.min.js"></script>
+    <script type="text/javascript" rel="javascript" src="./js/plugins.js" defer></script>
+    <script type="text/javascript" rel="javascript" src="./js/scripts.js" defer></script>
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];

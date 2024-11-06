@@ -613,7 +613,7 @@
                                                 <p class="pt-serif"><b>Location</b></p>
                                             </div>
                                             <div class="back">
-                                                <p class="pt-serif cart-text-white">we believe that the environment plays a crucial role in the journey of recovery and healing. That's why we have carefully chosen three exceptional locations that provide the perfect backdrop for your rehabilitation journey. Each center offers its own unique charm, ensuring that you have a serene and supportive setting as you embark on your path to wellness.</p>
+                                                <p class="pt-serif cart-text-white">We believe that the environment plays a crucial role in the journey of recovery and healing. That's why, as the Best Rehab Center in India, we have carefully chosen three exceptional locations that provide the perfect backdrop for your rehabilitation journey. Each center offers its own unique charm, ensuring that you have a serene and supportive setting as you embark on your path to wellness.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -651,7 +651,7 @@
                                                 <p class="pt-serif"><b>Support, Care and Love</b></p>
                                             </div>
                                             <div class="back">
-                                                <p class="pt-serif">We treat our clients like family and provide maximum extended support, care to people who have decided to step out of their problems and lend our hands to the better things in life. </p>
+                                                <p class="pt-serif">As the Best Rehabilitation Center in India, we treat clients like family, offering extended support and care to help them overcome challenges and embrace a better life.</p>
 
                                             </div>
                                         </div>
